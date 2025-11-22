@@ -1,5 +1,5 @@
 // AYARLAR
-const SHEET_ID = '1S4486Cil4ZG2bN8D6HJInIMy9kpzGu3h4La7X2GuyB8'; // Senin ID
+const SHEET_ID = '1XM1Nen-80GOPN-SLqhSpMYEUDFvjg9DzhZUG6agwk-M'; // Senin ID
 const API_URL = `https://opensheet.elk.sh/${SHEET_ID}/1`;
 
 // Varsayılan kategori resmi (Excel'de boş bırakılırsa bu görünür)
